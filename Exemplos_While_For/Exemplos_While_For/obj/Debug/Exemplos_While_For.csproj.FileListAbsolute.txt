@@ -1,0 +1,10 @@
+C:\Users\steph\source\repos\Exemplos_While_For\Exemplos_While_For\bin\Debug\Exemplos_While_For.exe.config
+C:\Users\steph\source\repos\Exemplos_While_For\Exemplos_While_For\bin\Debug\Exemplos_While_For.exe
+C:\Users\steph\source\repos\Exemplos_While_For\Exemplos_While_For\bin\Debug\Exemplos_While_For.pdb
+C:\Users\steph\source\repos\Exemplos_While_For\Exemplos_While_For\obj\Debug\Exemplos_While_For.Form1.resources
+C:\Users\steph\source\repos\Exemplos_While_For\Exemplos_While_For\obj\Debug\Exemplos_While_For.Form2.resources
+C:\Users\steph\source\repos\Exemplos_While_For\Exemplos_While_For\obj\Debug\Exemplos_While_For.Properties.Resources.resources
+C:\Users\steph\source\repos\Exemplos_While_For\Exemplos_While_For\obj\Debug\Exemplos_While_For.csproj.GenerateResource.cache
+C:\Users\steph\source\repos\Exemplos_While_For\Exemplos_While_For\obj\Debug\Exemplos_While_For.csproj.CoreCompileInputs.cache
+C:\Users\steph\source\repos\Exemplos_While_For\Exemplos_While_For\obj\Debug\Exemplos_While_For.exe
+C:\Users\steph\source\repos\Exemplos_While_For\Exemplos_While_For\obj\Debug\Exemplos_While_For.pdb

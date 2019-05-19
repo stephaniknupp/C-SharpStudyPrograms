@@ -1,0 +1,11 @@
+C:\Users\steph\source\repos\Switch_Case\Switch_Case\bin\Debug\Switch_Case.exe.config
+C:\Users\steph\source\repos\Switch_Case\Switch_Case\bin\Debug\Switch_Case.exe
+C:\Users\steph\source\repos\Switch_Case\Switch_Case\bin\Debug\Switch_Case.pdb
+C:\Users\steph\source\repos\Switch_Case\Switch_Case\obj\Debug\Switch_Case.Form1.resources
+C:\Users\steph\source\repos\Switch_Case\Switch_Case\obj\Debug\Switch_Case.Properties.Resources.resources
+C:\Users\steph\source\repos\Switch_Case\Switch_Case\obj\Debug\Switch_Case.csproj.GenerateResource.cache
+C:\Users\steph\source\repos\Switch_Case\Switch_Case\obj\Debug\Switch_Case.csproj.CoreCompileInputs.cache
+C:\Users\steph\source\repos\Switch_Case\Switch_Case\obj\Debug\Switch_Case.exe
+C:\Users\steph\source\repos\Switch_Case\Switch_Case\obj\Debug\Switch_Case.pdb
+C:\Users\steph\source\repos\Switch_Case\Switch_Case\obj\Debug\Switch_Case.csprojAssemblyReference.cache
+C:\Users\steph\source\repos\Switch_Case\Switch_Case\obj\Debug\Switch_Case.Form2.resources

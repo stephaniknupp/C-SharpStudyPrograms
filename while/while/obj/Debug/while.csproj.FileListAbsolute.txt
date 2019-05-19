@@ -1,0 +1,9 @@
+C:\Users\steph\source\repos\while\while\bin\Debug\@while.exe.config
+C:\Users\steph\source\repos\while\while\bin\Debug\@while.exe
+C:\Users\steph\source\repos\while\while\bin\Debug\@while.pdb
+C:\Users\steph\source\repos\while\while\obj\Debug\while.Form1.resources
+C:\Users\steph\source\repos\while\while\obj\Debug\while.Properties.Resources.resources
+C:\Users\steph\source\repos\while\while\obj\Debug\while.csproj.GenerateResource.cache
+C:\Users\steph\source\repos\while\while\obj\Debug\while.csproj.CoreCompileInputs.cache
+C:\Users\steph\source\repos\while\while\obj\Debug\@while.exe
+C:\Users\steph\source\repos\while\while\obj\Debug\@while.pdb

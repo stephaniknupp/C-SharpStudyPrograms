@@ -1,0 +1,14 @@
+C:\Users\steph\source\repos\Cantina_Sistema\Cantina_Sistema\bin\Debug\Cantina_Sistema.exe.config
+C:\Users\steph\source\repos\Cantina_Sistema\Cantina_Sistema\bin\Debug\Cantina_Sistema.exe
+C:\Users\steph\source\repos\Cantina_Sistema\Cantina_Sistema\bin\Debug\Cantina_Sistema.pdb
+C:\Users\steph\source\repos\Cantina_Sistema\Cantina_Sistema\obj\Debug\Cantina_Sistema.csprojAssemblyReference.cache
+C:\Users\steph\source\repos\Cantina_Sistema\Cantina_Sistema\obj\Debug\Cantina_Sistema.Form1.resources
+C:\Users\steph\source\repos\Cantina_Sistema\Cantina_Sistema\obj\Debug\Cantina_Sistema.Properties.Resources.resources
+C:\Users\steph\source\repos\Cantina_Sistema\Cantina_Sistema\obj\Debug\Cantina_Sistema.csproj.GenerateResource.cache
+C:\Users\steph\source\repos\Cantina_Sistema\Cantina_Sistema\obj\Debug\Cantina_Sistema.csproj.CoreCompileInputs.cache
+C:\Users\steph\source\repos\Cantina_Sistema\Cantina_Sistema\obj\Debug\Cantina_Sistema.exe
+C:\Users\steph\source\repos\Cantina_Sistema\Cantina_Sistema\obj\Debug\Cantina_Sistema.pdb
+C:\Users\steph\source\repos\Cantina_Sistema\Cantina_Sistema\bin\Debug\Cantina_Sistema.exe.manifest
+C:\Users\steph\source\repos\Cantina_Sistema\Cantina_Sistema\bin\Debug\Cantina_Sistema.application
+C:\Users\steph\source\repos\Cantina_Sistema\Cantina_Sistema\obj\Debug\Cantina_Sistema.exe.manifest
+C:\Users\steph\source\repos\Cantina_Sistema\Cantina_Sistema\obj\Debug\Cantina_Sistema.application

@@ -1,0 +1,10 @@
+C:\Users\steph\source\repos\Array_multi\Array_multi\bin\Debug\Array_multi.exe.config
+C:\Users\steph\source\repos\Array_multi\Array_multi\bin\Debug\Array_multi.exe
+C:\Users\steph\source\repos\Array_multi\Array_multi\bin\Debug\Array_multi.pdb
+C:\Users\steph\source\repos\Array_multi\Array_multi\obj\Debug\Array_multi.csprojAssemblyReference.cache
+C:\Users\steph\source\repos\Array_multi\Array_multi\obj\Debug\Array_multi.Form1.resources
+C:\Users\steph\source\repos\Array_multi\Array_multi\obj\Debug\Array_multi.Properties.Resources.resources
+C:\Users\steph\source\repos\Array_multi\Array_multi\obj\Debug\Array_multi.csproj.GenerateResource.cache
+C:\Users\steph\source\repos\Array_multi\Array_multi\obj\Debug\Array_multi.csproj.CoreCompileInputs.cache
+C:\Users\steph\source\repos\Array_multi\Array_multi\obj\Debug\Array_multi.exe
+C:\Users\steph\source\repos\Array_multi\Array_multi\obj\Debug\Array_multi.pdb

@@ -1,0 +1,10 @@
+C:\Users\steph\source\repos\Arrays\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\steph\source\repos\Arrays\Arrays\bin\Debug\Arrays.exe
+C:\Users\steph\source\repos\Arrays\Arrays\bin\Debug\Arrays.pdb
+C:\Users\steph\source\repos\Arrays\Arrays\obj\Debug\Arrays.csprojAssemblyReference.cache
+C:\Users\steph\source\repos\Arrays\Arrays\obj\Debug\Arrays.Form1.resources
+C:\Users\steph\source\repos\Arrays\Arrays\obj\Debug\Arrays.Properties.Resources.resources
+C:\Users\steph\source\repos\Arrays\Arrays\obj\Debug\Arrays.csproj.GenerateResource.cache
+C:\Users\steph\source\repos\Arrays\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\steph\source\repos\Arrays\Arrays\obj\Debug\Arrays.exe
+C:\Users\steph\source\repos\Arrays\Arrays\obj\Debug\Arrays.pdb
